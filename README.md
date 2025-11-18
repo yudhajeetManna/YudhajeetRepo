@@ -1,5 +1,4 @@
 # YudhajeetRepo
-
 <h1 align="center">Hi 👋, I'm Yudhajeet Manna</h1>
 <h3 align="center">A Passionate "cloud student" India</h3>
 
